@@ -14,7 +14,7 @@ ramda@0.25:
 
 ramda@^0.28.0:
   version "0.28.0"
-  resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.28.0.tgz#acd785690100337e8b063cab3470019be427cc97"
+  resolved "https://perkbox-491933125842.d.codeartifact.eu-west-1.amazonaws.com:443/npm/frontend/ramda/-/ramda-0.28.0.tgz#acd785690100337e8b063cab3470019be427cc97"
   integrity sha512-9QnLuG/kPVgWvMQ4aODhsBUFKOUmnbUnsSXACv+NCQZcHbeb+v8Lodp8OVxtRULN1/xOyYLLaL6npE6dMq5QTA==
 
 xstate@^4.35.1:
